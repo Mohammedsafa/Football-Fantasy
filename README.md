@@ -28,10 +28,10 @@ If you encounter any issues or have suggestions for improvement, please create a
 For questions or inquiries about this project, please contact:
 - Project lead: Mohammed Sherif Safa
 - Developers:
-  Gehad Taymor
-  Marwan Walid
-  Ahmed Gerab
-  Youssef Sherif
+  Gehad Taymor-
+  Marwan Walid-
+  Ahmed Gerab-
+  Youssef Sherif-
   Osama Amr
 
   Feel free to reach out to us with any feedback or suggestions.
