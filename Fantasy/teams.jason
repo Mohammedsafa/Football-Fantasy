@@ -1,0 +1,84 @@
+[
+    {
+        "Name": "PremierLeague",
+        "Teams": [
+            {
+                "Team_name": "ManCity",
+                "team_id": 0
+            },
+            {
+                "Team_name": "ManUnited",
+                "team_id": 1
+            },
+            {
+                "Team_name": "Liverpool",
+                "team_id": 5
+            },
+            {
+                "Team_name": "Arsenal",
+                "team_id": 6
+            },
+            {
+                "Team_name": "Newcastle",
+                "team_id": 7
+            },
+            {
+                "Team_name": "Brighton",
+                "team_id": 8
+            },
+            {
+                "Team_name": "AstonVilla",
+                "team_id": 9
+            },
+            {
+                "Team_name": "Totenham",
+                "team_id": 10
+            },
+            {
+                "Team_name": "Chelsea",
+                "team_id": 11
+            }
+        ]
+    },
+    {
+        "Name": "LaLiga",
+        "Teams": [
+            {
+                "Team_name": "RealMadrid",
+                "team_id": 2
+            },
+            {
+                "Team_name": "Barcelona",
+                "team_id": 3
+            },
+            {
+                "Team_name": "AtlethicoMadrid",
+                "team_id": 12
+            },
+            {
+                "Team_name": "RealSociedad",
+                "team_id": 13
+            },
+            {
+                "Team_name": "Villarreal",
+                "team_id": 14
+            },
+            {
+                "Team_name": "RealBetis",
+                "team_id": 15
+            },
+            {
+                "Team_name": "AthleticClub",
+                "team_id": 16
+            },
+            {
+                "Team_name": "Sevilla",
+                "team_id": 17
+            },
+            {
+                "Team_name": "Espanyol",
+                "team_id": 18
+            }
+        ]
+    }
+]
